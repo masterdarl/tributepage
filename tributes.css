@@ -1,0 +1,52 @@
+/*header*/
+header {
+    background-color: black;
+    border:none;
+    margin-bottom: 75px;
+    text-align: center;
+}
+
+header h1,h4 {
+    display: block;
+    text-align: center;
+    color:;
+
+}
+
+nav {margin: 0%;
+    padding: 0cm;
+
+}
+
+nav ul li {
+    display: inline-block;
+   
+    margin-top: 0px;
+    margin: 0mm;
+    -ms-text-kashida-space: 22%;
+    border-width: 2cm;
+
+    
+
+}
+
+nav ul li a {
+    text-align: right;
+    border: 5px;
+    font-style: normal;
+    font-size: 1cm;
+    
+    
+}
+
+body {
+    background-image: url("steve-jobs-iphone.jpg");
+}
+
+.me:hover {
+    image-resolution: 200px;
+}
+
+.me1 {
+   float: right;
+}
